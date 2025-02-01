@@ -4,4 +4,4 @@ The text data was preprocessed by removing noise, performing lemmatization, and 
 
 The program trains and evaluates multiple machine learning models (Perceptron, SVM, Logistic Regression, and Naïve Bayes), while optimizing for accuracy, precision, recall, and F1-score.
 
-Pandas, NLTK, and Scikit-learn packages are used
+Pandas, NLTK, and Scikit-learn packages are used.
